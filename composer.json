@@ -1,0 +1,14 @@
+{
+    "name": "plxx/miniphp",
+    "description": "Mini Php Framework",
+    "type": "framework",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "Pages\\": "Pages/"
+        }
+    }
+}
